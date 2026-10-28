@@ -1,0 +1,1 @@
+"""Research-mode factorial experiment."""

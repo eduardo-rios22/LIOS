@@ -1,0 +1,9 @@
+LIOS — Prototipo funcional de revisión v4
+
+Abrir index.html en Chrome o Edge.
+Inicio: Dashboard financiero simulado.
+Botón «Nueva inversión»: recorrido del participante.
+Menú «Revisión (solo demo)»: seleccionar C1–C4 y reiniciar para probar las manipulaciones.
+Al terminar 10 oportunidades se administran IU1–IU3 y controles, después debriefing y exportación CSV.
+
+Advertencia: demo local sin backend, base de datos, autenticación ni asignación aleatoria real; escenarios y cifras ilustrativos, no validados. No utilizar para recolección oficial ni como asesoría financiera.
